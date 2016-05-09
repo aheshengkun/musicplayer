@@ -1,0 +1,17 @@
+D:\soft design\C#\TMusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\soft design\C#\TMusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\soft design\C#\TMusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.MainForm.resources
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\soft design\C#\TMusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\soft design\C#\TMusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.PlayListWF.resources
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.WaitWF.resources
+D:\soft design\C#\TMusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.SetWF.resources
